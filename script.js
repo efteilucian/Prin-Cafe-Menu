@@ -41,6 +41,7 @@ const menuItems = [
     // Vin
     { name: "Carafă Crama Darie Alb", volume: "1 L", price: "30 lei", category: "Vin", icon: "icons/vin.png" },
     { name: "Prosecco Corner", volume: "750 ml", price: "40 lei", category: "Vin", icon: "icons/vin.png" },
+    { name: "Crama Darie", volume: "250 ml", price: "10 lei", category: "Vin", icon: "icons/vin.png" },
 
     // Gustări
     { name: "Alune", volume: "50 g", price: "5 lei", category: "Snack", icon: "icons/gustari.png" },
