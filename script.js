@@ -4,6 +4,7 @@ const menuItems = [
 
     // Cafea
     { name: "Cafea", volume: "40 ml", price: "5 lei", category: "Cafea", icon: "icons/coffee.png" },
+    { name: "Espresso Tonic", volume: "200 ml", price: "10 lei", category: "Cafea", icon: "icons/coffee.png" },
     { name: "Frappe", volume: "400 ml", price: "15 lei", category: "Cafea", icon: "icons/coffee.png" },
     { name: "Cappuccino", volume: "200 ml", price: "7 lei", category: "Cafea", icon: "icons/coffee.png" },
     { name: "Ceai", volume: "200 ml", price: "5 lei", category: "Cafea", icon: "icons/coffee.png" },
