@@ -37,12 +37,17 @@ const menuItems = [
     { name: "Jack Daniel's Honey", volume: "100 ml", price: "30 lei", category: "Spiritoase", icon: "icons/tarie.png" },
     { name: "Jack Daniel's Honey", volume: "700 ml", price: "200 lei", category: "Spiritoase", icon: "icons/tarie.png" },
     { name: "Vodcă Finlandia", volume: "100 ml", price: "15 lei", category: "Spiritoase", icon: "icons/tarie.png" },
-    { name: "Vodcă Finlandia", volume: "700 ml", price: "100 lei", category: "Spiritoase", icon: "icons/tarie.png" },
+    { name: "Shoturi de tequila", volume: "20 ml", price: "5 lei", category: "Spiritoase", icon: "icons/tarie.png" },
+    { name: "Shoturi de tequila", volume: "40 ml", price: "10 lei", category: "Spiritoase", icon: "icons/tarie.png" },
+    { name: "Captain Morgan", volume: "1L", price: "170 lei", category: "Spiritoase", icon: "icons/tarie.png" },
+    { name: "Tequila", volume: "700ml", price: "150 lei", category: "Spiritoase", icon: "icons/tarie.png" },
+    { name: "Bumbu", volume: "700ml", price: "240 lei", category: "Spiritoase", icon: "icons/tarie.png" },
 
     // Vin
     { name: "Carafă Crama Darie Alb", volume: "1 L", price: "30 lei", category: "Vin", icon: "icons/vin.png" },
     { name: "Prosecco Corner", volume: "750 ml", price: "40 lei", category: "Vin", icon: "icons/vin.png" },
     { name: "Crama Darie", volume: "250 ml", price: "10 lei", category: "Vin", icon: "icons/vin.png" },
+    { name: "Proseco Valdobbiadene", volume: "-", price: "50 lei", category: "Vin", icon: "icons/vin.png" },
 
     // Gustări
     { name: "Alune", volume: "50 g", price: "5 lei", category: "Snack", icon: "icons/gustari.png" },
