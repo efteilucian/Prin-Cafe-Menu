@@ -55,6 +55,10 @@ const menuItems = [
     { name: "Alune", volume: "300 g", price: "15 lei", category: "Snack", icon: "icons/gustari.png" },
     { name: "Chips Lays", volume: "125 g", price: "12 lei", category: "Snack", icon: "icons/gustari.png" },
     { name: "Chips Viva", volume: "100 g", price: "12 lei", category: "Snack", icon: "icons/gustari.png" },
+    { name: "Waffles", volume: "-", price: "5 lei", category: "Snack", icon: "icons/gustari.png" },
+    { name: "Brioche", volume: "-", price: "5 lei", category: "Snack", icon: "icons/gustari.png" },
+    { name: "Pains au chocolat", volume: "-", price: "5 lei", category: "Snack", icon: "icons/gustari.png" },
+    { name: "Croissant", volume: "-", price: "5 lei", category: "Snack", icon: "icons/gustari.png" },
 
 ];
 
